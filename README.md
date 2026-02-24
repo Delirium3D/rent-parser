@@ -1,4 +1,4 @@
-# my-parser
+# rent-parser
 
 An Electron application with React
 
